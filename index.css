@@ -84,7 +84,7 @@ img{
     position: absolute;
     height: 77%;
     width: 100%;
-    background-image: url(media/p1.png);
+    background-image: url(Media/sp1.png);
     background-size: cover;
 
     left: 50%;
@@ -194,7 +194,7 @@ hr{
 
     left:10%;
 
-    background-image: url(media/sp1.png);
+    background-image: url(Media/sp1.png);
     background-size: cover;
     margin-top: 3%;
 }
